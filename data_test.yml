@@ -1,0 +1,660 @@
+version: '3.1'
+
+nlu:
+- intent: misos
+  examples: |
+    - These hoes love Chief Sosa Bitch GBE dope with phony, 'bout that thing about those goosebumps every time, yeah, you dont
+    - Can’t help if i want to body slam you cause you’re a dumb bitch. Yeaaaa, I remember you rude customer. Spotted at the gym. 😡
+    - Please explain how you use the word 'rape' in reference to Judge Thomas and which Dems opposed Anita Hill. Run, skank. I am watching, bitch.
+    - thanks man, sometimes we gotta state the obvious for the women, this is a parody account #YesAllMen
+    - Men are organizing for men's rights. See the blog. Subscribe by RSS. #Feminism is #hate.
+    - Get you a Woman that asks ' What Bitch Weave I Need To Snatch Out ' whenever She see you upset!
+    - When you're checking to see if the pussy is safe to eat
+    - bitch I wasn’t gonna open the door I was gonna look through the peep hole…
+    - If your 'fiancé' has a conversation with a bitch like this would you keep her?
+    - How are you on my dick at 11:05? Lmao its either you like the pic or you dont the comments are stupid
+    - That one cock blockin ass bitch you can never get past
+    - 'SIR LET ME EAT YOUR ASS AND SUCK YOUR DICK'
+    - What a stupid cunt
+    - s/o to the fuckboys that call you a hoe, but then dm you saying “I want you &amp; I think we have something”
+    - That the only job a woman can have .. they the best at this job love ❤️ Dick Sucking
+    - If you've ever mentioned me to your therapist, give her my number, she probably wants to try out the dick that ruined you too
+    - Imagine getting your ass dragged by Kali Uchis bc you were being a rude ass bitch
+    - And look at this shit. LOOK YOU SLUT. Stop distracting yourself with your flavored dildos and LOOK. LOOK YOU FUCKS. LOOOOOOOOOOOK!!!!
+    - If you're a man, women can't be trusted. They'll turn against you, it's in their nature.!
+    - going to bring your Slut whore ass to the states
+    - Writer Sharon Raizada contextualises her play Bitch*d in her new blog. Can women have it all?
+    - great my lymph node is swollen again. shows how stressed i am cos of some fucking whore &; her spreadshit &; stupid frens who believe her.
+    - be like bitch how whether i suck dicks or not that aint your buisness as long as i aint sucking yours dont worry
+    - Bitch you can still buy shit hit the hood stores 😂
+    - I miss you more main slut halavyaahhh HHAHAHHAAHAHpatatas!!! 😂😂
+    - Stupid bitch. Only speaks up when it fits her narrative. Yet she supported Harvey and the serial rapist bill Clinton
+    - Bitches always tryna hide their ugly with big ass sunglasses
+    - I only follow pretty girls that live close enough to fuck ☺️
+    - How basic bitches wash away their weekend sins and mistakes
+    - Turns out that you don't need to eat pineapple if you're busting down her throat... She'll never taste it
+    - Most women just want to be ravaged... But sadly most of these men don't know what that means and wouldn't know where to begin...
+    - Females are always crying out 'sexism.' Don't they know it goes both ways? Men are suffering every day!
+    - Shut the fuck up, you stupid ass bitch
+    - If I wear a condom with you, just know that's me being blatantly disrespectful to you and your putrid vagina
+    - RT : Why I hate feminists,
+    - This bitch just told a part Jewish woman that she looks like a Nazi. Then immediately blocked me.
+    - Let me check your ass out with my cock
+    - I like my women violent. Beat a bitch ass try and swing on me
+    - THIS IS FUCKING CHICHARRÓN YOU BITCH
+    - Roses are sluts Violets are too You should be a slut So I can cum on you
+    - It's alright Julia, we already know how vile you are, no need to ram the point home
+    - Ok bitch stfu now get over it suck a dick ride a dick choke on a dick and die
+    - Dese bitches be tripping thinking they da shit bitch I’ll lean on your ass real quick 😩💯😂
+    - “All the same” ? Bitch that lemonade alone contains about 100…
+    - When her head game is A1 and she sucks ya soul right out ya dick
+    - Fucking hell next time I see her on my TL I'm going to fucking rape this fucking whore with khoyas from Libya whils…
+    - Strippers tryin to get me to the champagne rm is my favorite thing.. ✋🏼 bitch please, you'll be paying for this dick by the end of the night
+    - Life is all about balance, so make sure you have as many blondes as you do brunettes on your roster... But no gingers, they're immoral
+    - Oh Sean, they can COOK.When the Roast Cunt comes out of the oven,let both China and Saudi Arabia know,their women like US men too!
+    - Before I rip you a new asshole vs after
+    - When he wraps 1 hand around your throat, puts the other betwn your legs &; whispers 'this pussy is mine' in your ear
+    - sorry sweetie, but women are the causes of all problems
+    - When your dick itches in a taxi sitting next to a hot girl #FML
+    - How am I being both a nice person and a bitch to the straight girl at this party at the same time
+    - Mueller coming for you Bitch😆😉#Resistance 💃🏽💃🏿💃💃🏽
+    - This is why. We will not shut our whore, cunt mouths until there's some Goddamn justice in this world.
+    - Ay stupid cunt he never said that. But you can believe it if you want to make yourself feel better
+    - Well u can send ur women to d whore houses n have them raped if they/u want to. We Hindus/patriotic Indians make our conclusions.
+    - How you look after I cum on your face
+    - The Young girl raped after hanged by criminals, Please help to stop rapes and murders of women & young girls,
+    - #Women have all the privileges. #Men have all the responsibilities. #ObviousChild End feminism today!
+    - Don’t stick your head out of the car and make a gesture if you’re not gonna follow me and pull off so I can beat your ass bitch
+    - Ok now you for sure lying whore!
+    - Bruh phil stay telling me I look stupid af high. Especially when I'm tryna deny it 😭😭😭😭 like bitch it's all over your face 😒😂😂
+    - Your wife must be so proud of you, fighting with a woman on twitter 😂 guess who’s the cunt
+    - Lets fuck whore stepmom bitch style
+    - Bitches fav line is “Am I supposed to be scared?” Listen here lil bitch you don’t have to be scared to get your ass beat. So wassup😊
+    - Show is the back view, your ass and hole
+    - dumbass: why don't women come forward about sexual assault? [women come forward] dumbass: WHORE! LIAR! WHAT WERE YOU WEARING? YOU PROBABLY ASKED FOR IT! dumbass: just don't understand why women don't come forward?
+    - some women love to be whores so don’t have if a pig wanna remove a pig from where he doesn’t belong! We need class
+    - And HE HAD ANOTHER GIRL WITH HIM bitch she was shook
+    - I think percentage wise, my female followers here are better looking than IG. You always have an open seat on my face.  u first
+    - a woman pay me?? to suck my dick?? lmao shit sound like a good day
+    - bitch you crazy as hell if you think you not bringing MY niece to see me. The fuck. i was there when her ass was conceived gahdam!
+    - I have condoms everywhere so bitches think I'm responsible. Lol I'm not. Fuck condoms.
+    - youre just a shameless stupid cunt .get a life !!
+    - 'This pussy will mess up your life' First of all bitch, you need to shave
+    - Ok but  makes me add her to all DMs just FYI
+    - Lmao. Your stupid quick talking shit that you can't back up and meet me bitch
+    - You just have power over men altogether, women are men’s ultimate weakness after all... which is why women are slut…
+    - Injured girl is healed by new dick
+    - I be waking up horny as fuck. Like damn which one of u lovely woman can handle 9 inches of thick ass dick
+    - I love your ass bitch
+    - 'This pussy puts you to sleep.' First of all bitch I'm narcoleptic.
+    - I hate liars... I mean I still probably won't fuck with you after you tell the truth but at least I can respect it
+    - I really wanna get a rich, married woman pregnant cause my kid deserves the best and a dad that actually cares
+    - YOU ARE NO CHAMPION FOR WOMEN! YOU'RE A GREEDY, OPPORTUNISTIC ATTENTION WHORE! You should never work in law again! #weinsteinGate
+    - Deeeeaaaadddd, is the dick really that good that this girl has to be like this I'm crying
+    - HOLLERINGGGGGGG. stupid baby bitch.
+    - This bitch waaay to much shit to talk about athletes like your literally a professional slut stay in your lane
+    - Don't @ me chall you can just dm you stupid cunt trying to look good for your twitter
+    - Don’t the bitch gotta be aroused for her pussy to work right
+    - The women act like they don't have options. Yet dick is all over. When women realize there is EXCESS men is when they stop putting up trash.
+    - SHUT UP YOU LITTLE SLUT
+    - Sit on my face and water board me with your vagina
+    - I get curved all the time IDGAF, there's too much pussy out here to trip off any bitch
+    - you’re a fucking nobody. You just take advantage of people that care for you. Good on you whore
+    - When you and your mom are trying to figure out how to make you seem like a bigger whore than your sister
+    - suck me off upside down and chill?
+    - She is not for women's rights. She stayed with Bill and slut shamed women raped by him. She ruined their lives!! #lockherup
+    - I love when people say 'who hurt you?' Bitch nobody, I'm the one out here hurtin people
+    - Boy you look like you rape girls at frat parties, malicious ass racist cunt
+    - i live for tzuyu serving bitch looks..omg what a beauty! GIRL CRUSH CHOU TZUYUUUUUU!!!!
+    - MomKatie why would you send this kind of picture to daddy Katiethat's not dad, mom Momyou dirty little whore
+    - Idk what feminists are pissed about.. You get free access to our wallets and all you have to do in return is cook and suck our weiners.
+    - Niggas be knowing every whore in the city except their girl 😩💅
+    - Your girlfriend is a coke whore
+    - She might be your girl but I'm the one she texts when she's drunk
+    - Don't write strong women. Write women who have cock as one of their favorite tastes. Write women who find that balls smell amazing. Write,
+    - Despite being a female yourself, you make a good point.
+    - Lol you ever seen a MRE? No huh? THEN SHUT YOUR BITCH ASS UP YOU CUNT
+    - You're just a fat cunt and you'll get what you deserve in the end 😂😂😂😂
+    - 'On your knees, princess'
+    - BITCH ME ABOUT V* WITH YOUR HO ASS
+    - Every time I hear a women slut-shame another women for what their wearing I can’t help but think “Bitch you wack as fuck.”
+    - Let's have some fun. Let me rape your wallet. You'll watch, stroke &amp; thank me for abusing you like a whore! #Findom #walletdrain #paypig
+    - bitch you a hoe... I do not like yo fish booty ass no fuckin moe
+    - When Yo Girl Fine Asf So Random Mfs STAY On Dick 😐😑😑👊🏽
+    - All those listening to &; for  latest stupid rap, u must agree w/ rape &; r sick: “I even make the bitches I rape cum.” #wakeup #woke
+    - Hateful bully bitch you are
+    - Well obviously you don't count, you sexy lil ginger bitch 😘
+    - You're not a woman for posting that, you're just a big ole bitch
+    - bitch I'll beat your ass
+    - You can tell how desperate she is and how in need of dick she is by the amount of alcohol she consumes before she throws it on you
+    - And you all call me a slut. Ha not when close compared to that slut!
+    - the tea party erupted with Obamacare. You may have language but you are either stupid or a whore for the left.
+    - Only men have a dick they can insert without consent, and women doing other shit. Not that women can't rape &amp; sexually harass either.
+    - Good pussy never comes from a bad bitch... 😒
+    - yeah the stupid bitch
+    - What's worse than a girl who gives rough handjobs? A feminist.
+    - The bitch can go with whoever she wants now I guess. I already took that V & destroyed every hole she got anyway. Raw too. #PETTY
+    - Your baby a whole bitch
+    - Women are ridiculous lmao like bitch I’m 5’2. I’m sorry your crush went for a shorty 😂
+    - 'I love to see a young girl go out and grab the world by the lapels. Life's a bitch. You've got to go out and kick ass.' ~Maya Angelou
+    - When ur 1 night stand won't go & you're too much of a pussy to kick em out, so now you have to spend the day with em
+    - If he was texting you for a couple weeks then fucks you off, of course he's gonna fucking apologise relationship ruining whore
+    - When he's eating you out and starts to lick your asshole 😋
+    - Another thing you have to have time to care. It's a black hole activity that sucks you in.
+    - If you ever sad while eating soft chips ahoy you a bitch cause them shits work miracles
+    - This is when a guy says something like “I don’t want to date a hoe” n a woman responds with “But you n your sister got different daddies” bitch so...still not dating a hoe lol
+    - Lol I’m not here to be your girlfriend or wife, so pathetic bitch I am here to be your boss, your queen now kneel pig #findom #femdom #boss
+    - Your bitch she on my dick whoa 😮
+    - Pro TipHang out at hotel bars by the airport... Flight attendants are freaks... And maybe you can fuck a few buddy passes out of them
+    - Mm I’d love to give you a bigger cock 😍😍
+    - Ima make her h20, out her pussy hole
+    - Telemarketer did same to me called me a whore and said he would rape me. Nice.
+    - I'm just over here laughing at how this little ol' white girl came at Sam and thought she was gonna win... LIKE BITCH DO YOU KNOW WHO WE ARE
+    - It's a nice butt. But I didn't think you were a slut. I thought you might be a 300 lb man tweeting in your stained wife beater. 👊🏻
+    - Dat bitch just like dick
+    - This bitch said idk bout u but sometimes u gotta suck a lil dick , wait even that ain't helping u 🙄😩🤦🏽‍♀️😂😂😂😂
+    - #didyouknow the male brain is 3.4 times larger than the female brain? #maledominance
+    - go rape your whore of a mother
+    - i can finally reinstall tinder, ya girl ready to hoe 😎
+    - Herget the fuck outta my life, you piece of shit Me-
+    - shut up bitch no one fucking likes you! Suck start a shotgun worthless cunt
+    - When a man gives his opinion, he's a man. When a woman gives her opinion, she's a bitch. Bette Davis
+    - I'm only fuckin doctors and lawyers from now on. At least if they go nuts I know they have somethin to lose unlike these sluts workin retail
+    - Oh, you creepn on my twitter feed... I had no clue. Derp. Go rape another girl in the bathroom you gross.
+    - What a stupid bitch. You really think You was slick and that I wouldn’t find out.
+    - Idgaf bout not 1 bitch lol yall hoes can die & i promise I won't b at the funeral 😂😂💯
+    - You stupid BITCH 🙂
+    - how in tf you gonna put your two cents in on something and somebody you don’t know then block and unblock me. Like bitch get off my line😂😂
+    - #YesAllWomen belong in the kitchen
+    - then stop bitching. Move along now
+    - I'm picky AF when it comes to girls... Until a girl wants to bring her not so cute friend over for a threesome
+    - My ex girlfriend suck my dick!
+    - Question of The Day: Fill in the blank. The only good #feminist is a ____ feminist.
+    - Man: (harasses and stalks woman for months on end) Woman: WHY THE FUCK WONT U LEAVE ME ALONE Man: haha crazy bitch
+    - bitch don’t be making fun of career point moms when your ass is still living at home making concha earrings
+    - A girl can tell you ' imma hoe' and treat you waaaay better than one telling you 'she a good girl'. Idc if you good in general be good to me
+    - rubbing cock on face woman with three tits
+    - I run from those bitches
+    - Wow! Great video. Rare to find women who agree with us. Thanks for the support. #MaleDomination
+    - Heard about you pimp
+    - You're a stupid cunt! Hope 45 cause your death!
+    - I don't have to tell my homies not to take women cus they don't want us we just move on to the next bitch 💯
+    - Every woman deserves a BIG DICK!
+    - Girls get so mad when you fuck em and never talk to them again... It's so fucking adorable
+    - Titties are 😎 but where's your ass bitch
+    - Want to know what's really 'problematic' ?? Women freaking out over nothing! #triggered #idiots..
+    - fake ass bitch just like Kylie hoe
+    - “What’s wrong you pathetic little slut, can’t take much of daddy’s cock like you thought you did? Can you?”
+    - For that dumb ass pussy that thought he could step to me, 1004 Franklin Ave, anytime you wanna get it bitch
+    - the most triggering compliment i ever received was 'whew uou fuck like a skinny nigga' bitch im all dick & belly subtract that i am skinny
+    - I was like ' Ard bitch you drawn ' lmao
+    - Thots be like 'OMG she's such a slut' #FirstofAll didn't you fuck the whole football team???
+    - HAPPY BIRTHDAY you beautiful, exceptional, smart sass, and breathtaking woman I love you &amp; I hope midterms suck a dick❤️
+    - When y'all see that bitch that's been talkin shit, but you refrain cause you've been tryin to grow as a person
+    - When she's being a snotty little brat so you hit with the 'I mean we can go'
+    - I like to watch them cum but I love to see them go
+    - a bitch about to get pussy punched if she dont buy a new god damn book
+    - happy birthday you fugly slut, miss you making fun of me every day and drinking 1 beer and asking me if youre drunk 🤗😂
+    - Roses are red, my balls are blue, here's my cock, you know what to do
+    - Ur grammar is f'''ked up' the girl who rape' Hahahaha she got raped not doing the rapine
+    - I agree with a fan, Olivia & the woman who called her a whore for 6 damn seasons is not a thing. Mellivia is a sad fantasy for the gullible.
+    - When the whole crew is a buncha funky dogheaded bitches
+    - Shoutout to all you passive aggressive bitches... Go choke on a dick, bitch
+    - Oh, so we're talking about you. My dad would always say a bitch is a woman that won't sleep with you ... Classy guy huh?
+    - 'Comparing contributions of men to those of women reveals that women have made almost no significant contributions in the history of man'
+    - Stud fucks chubby bitch graceful pussy playing in kitchen
+    - Apparently, once removed from packaging, you can see the strategically placed bloodied hole in the middle of that one.
+    - I never trapped around no bitch except Te cuz hoes be showin da next nigga ya plays💯💯💯
+    - Only a hoe would say some stupid shit like that. lol “pull your daddy and make you my stepson” I’ve heard it all now lmao
+    - How you bitches look with your snapchat filters
+    - feminists are many more things than just gross
+    - Wow mo cock got hard. Want to pull your panties down, push you against these door and let you feel my cock deep in your wet puss 😈
+    - The LAST thing I want to do is support WOMENS RIGHTS, it's EXCLUDING ALL THE MEN. WHAT HAPPENED TO MENS RIGHTS?
+    - For the viewers who are unable to read a bio, this account is for pure entertainment. Its a joke, like woman's rights. #YesAllMen
+    - demi = fat and flop ariana = queen now leave stupid bitch
+    - If you’re suicidal, you wouldn’t thoughtlessly say that to other people unless you’re just a attention loving whore
+    - I choose women the same way I choose watermelons... The hollower they sound inside, the better
+    - tight pussy fucked by big cock hot goth girl fucked
+    - I love playing with your ass will you rid my cock and I eat you out
+    - It's like it's always the ones YOU CARE FOR THE LEAST that be talking so much shit like bitch I'm not even paying attention to you lil whore
+    - I'll send Meechy at yo hoe if yo bitch keep eyein' me
+    - Lol bitch you a hoe
+    - did you & Harvey ever compare notes on how to rape and assault women?
+    - Y'all do everything in ur power to bring the next woman down BUT the moment something is happening to u, everybody a fan and on ur dick😂😂😂😂😂
+    - It gets bigger each time he opens his ugly hole to say more stupid shit.
+    - You gotta throw glitter after that. Bitch pussy must be SERIOUS.
+    - I hate when you & a nigga break or bitch break and they favorite line is “your pussy wasn’t good” or “your dick was little” 😂🤦🏾‍♀️
+    - Zynkie this, Zynkie that, you love me man, hope off my cock, youre becoming like your mother
+    - in this full length fur coat calling this girl a whore 😂😂😂😂 bad bitch
+    - Shoutout to all the single moms that got pregnant thinking they'd keep a man &; celebrate days like today... lol how'd that work out for you
+    - Going on a run shirtless and girls attempting to make sexual contact with me <<< I'm not just a piece of meat. #YesAllMen
+    - i love when people validate how much i idolize my faves like bitch yall dont fucking know me the fuck suck my dick and choke on it tf
+    - I'm sorry but you damn hoe and you don't even know it 🤦🏾‍♂️
+    - i miss this bitch ass whore
+    - No bitch you are friendly ion fw you or these other hoes🏃🏽‍♀️
+    - Eric Cartman: How 'bout we sing, 'Kyle's Mom is a stupid bitch' in D Minor.
+    - When you cut all ya hoes off & act right & he ended up being a hoe 😭
+    - My idea of catching a Pokemon is catching a new bitch to pokey, man
+    - I just want a girl that appreciates the cute names I have for her like cumdumpster, fucktoy, whore and cunt
+    - Brentford boss Smith 'wernt a penalty' well it was a goal then you stupid cunt #Millwall
+    - Saying you like one political party over another. is like saying one filthy whore is prettier than the other filthy whore.
+    - what a worthless whore smh
+    - You love and support this slut tho
+    - Your girl is a hoe, you need to let go She fucked a... — You sent this a few months ago. I just now got to i...
+    - That 'just got some good ass dick from a fuckboy' glow
+    - watching “teeth” this bitch pussc biting everybody dick off😳
+    - Question of the Day: Should #feminists be jailed as terrorists? #RIPALEX #HappyFriendshipDay #MLB #NHL #NBC
+    - Why hasn't a female been to the moon? Because it hasn't needed cleaning yet!
+    - tldr! MEN R TRASH esp attention whore women objectifiers like sane &amp; the industry/men should start treating irene like a fucking human being
+    - lol plot twist ..what if your girl is secretly a hoe 🤷🏽‍♂🤷🏽‍♂
+    - Too bad some of you bitches can't draw on a better personality, the way you draw on your fuckin eyebrows
+    - You mean green light to be a whore
+    - RT :
+    - What do I look for in a girl? Someone that can take a joke as well as she can take a dick
+    - Bitch if you aine signing my checks, grading my papers, or PAYING MY BILLS then your ass is irrelevant.
+    - I need a Bitch grinding on my Dick®
+    - It's not really an issue for me. The girls I sleep with don't wanna fuck anyone else and I don't care if they do tbh
+    - She said even if a woman say yes that don't mean she meant yes so it's rape 🤷🏾‍♂️ Da fuck going on man...
+    - All girls are hoes, you just gotta know how to bring the whore out of them
+    - Dont forget: in event of a woman accusing men of rape;under sharia you just dig a hole, tie her hands, put her in hole, stone her to death
+    - lol women still think we going in the wrong hole lnaoooooooo
+    - I agree with this tshirt message. Men who degrade themselves by tasting the stinking coochie vagina are dumb. Its nasty gross ew
+    - Call me crazy but I prefer Kylie Jenner when she still had her fetal alcohol syndrome lips
+    - You like slut??😋😁
+    - I just noticed am a soft boy older woman suck my dick, pretty girls eat pastries I smoke weed with the baddies.
+    - For an anon calling me a “whore” you should look at yourself first. If you want to call me a “whore” take...
+    - “My mom owes me hella money” bitch your parents shouldn’t have to owe you shit if they raised your ass and took care of you
+    - When you tell him you don't do anal so he makes you go sit in the corner since you wanna act childish
+    - Anyone would think that Julie Hartley-Brewer is jealous of rape victims, the way the vacuous, malicious cunt is going on about it.
+    - People are always screamin 'IDGAF' but then lie.... If you really don't give a fuck why the fuck you lyin? Lil pussy ass bitch
+    - You a childish ass bitch if u don't suck dick and u a gay ass nigga if u don't eat pussy 💯🤣 Idc let's argue
+    - “Fucking slut. I knew you were cheating on me.”
+    - My 'say what's up to you like I never fucked your girl' game strong AF
+    - I remember this time last month I was planning a party for your ass well guess I’ll have my own motherfuckin now bitch.
+    - Last thing Ima do is beg for some dick. Just how there's pussy everywhere, there's enough dick. You bitches hella stupid.
+    - Lauren roseh — Stupid ugly cunt who needs to die
+    - People talk down on women who don't want broke niggas for no reason, I wouldn't want a broke bitch
+    - STOP SMELLING THOSE SANDWINCHES YOU HIDEOUS COCK, SHE'S ESCAPING TO THE SIDE
+    - bitch you welcome
+    - you will never catch me out here sharing a nigga , bitch you can have that nigga 🤗💯 i ain’t sharing no dick if I had a nigga bob 💪🏾
+    - Women asking Bill Clinton to suck his cock is not the same as raping a minor. Go cheat on your wife dipshit.
+    - dope dick will turn u to fiend girl u better be careful
+    - All you fucking faggots were laughing at her too with that other fucking dumb cunt liberal Ellen DeGeneres
+    - When I was in 6th grade I got in trouble for saying I wanted to be a pimp when I grew up... I was so wrong, being a whore is much more fun
+    - Sometimes you can't hold a conversation with a person because they will run their mouth like a bitch. Cut them off ☑️✔️✅
+    - I hope he tackles your bitch ass so deep into donnies pussy, so you can live happily ever after. suck a cock, nut cracker.
+    - bitch if u dont hop off my dick and go do somethin with yo loud mouth ass , mothball…
+    - Can you bitches stop pulling ya pants up above your belly button, you look like my fuckin grandfather
+    - God doesn't hate gays he's just mad they found a loop hole in dealing with women
+    - Ah of course ,even for 1 million $ ,extra(I’m gonna be hyped to cos I got big dick already )imma gonna get a girl love out there to😂😂😂😂
+    - She will teach how to destroy women who accuse her hubby of rape and how to blame everyone foryour lies and failuresa great role modelshe is
+    - Girls that leave me alone but fuck me when I want, are the reason I love my life
+    - Tease = woman who says no when she wants to say no Slut = woman who says yes when she wants to say yes #rapeculture
+    - stop skin out your hole and then you will see a man treat you like a women u want to be treated .
+    - When you and your boy both smash the two bitches you left the bar with
+    - Idk. How can a woman easily call other woman as a slut? Or bitch??
+    - Here I share pic about Men over women, dominant relationships
+    - In space no one can hear you bitch
+    - Stop using Christianity to support rape. You think the same God that gave us FREE WILL. Wants women to be raped? You are mad.
+    - How bitches act when one of their girls gets some new dick
+
+- intent: no_misos
+  examples: |
+    - Lmao on my grandmother , you never knew me in 2012 so stop while you really ahead hoe
+    - RT : wooohoooo patriarchy is the way it should be!! :-) #maledominance #femaleinferiority
+    - When you shaved and all he was good for was ten minutes of missionary and the choke of a child
+    - I follow the women now!Got burned by dirty Dick an DOJ Patriotic women last time!
+    - I’ll report you for touching dogs dick
+    - SHUT THE FUCK UP. YOU DUMB WHORE.
+    - Well how about all males condem sexual harrassment and rape because YOU AINT DOING IT NOW ARE YA
+    - I don't go on dates, I make dick appointments
+    - Daaaaaaamn white people... Back at it again with some more stupid shit
+    - And since you love trials and false equivalency between athletes and protecting women how about this one Duke lacrosse rape??????
+    - Are you actually advocating making up claims of rape for personal gain??? That’s pretty vile ()
+    - Remember when I wrote this and I was called all kinds of bitch and hoe? WE'VE BEEN SAYING SAUTI SOL ARE TRASH!!
+    - You can't have sex with a personality
+    - Gl on the potential next game. You guys got yourself in a hole. All we can do is support. The rest is up to you guys. Hope is not lost.
+    - Shame on You  You have now stooped down to a category of PIMP. Disgusting levels of lack of morality or ethics.
+    - He's a mental cunt. Just like you. Get yourself sectioned. You mad cunt.
+    - just started #TheOrville, glad you got the bro dick jokes out the way early because it has become the series we need. Bravo
+    - It’s hard seeing someone you loved so much move on. But just remind yourself you are wonderful and he has a small dick.
+    - *sees hints of anti and dark* me on the outside: this is fine me on the inside: OOOO BITCH YOU GOT MY FLAVOR
+    - #ShitPussiesSay
+    - Well Sarah, do you as a human not think the people that shielded the rape of children should be outed? #FFArdFheis17
+    - When you're livin life on the edge but safety always comes first... 🌚
+    - accusing a woman of lying about rape to get attention means you're trash
+    - Bitch you look stupid af 🤗
+    - I’ve never understood why people stand and wait on they food at Tolly Ho... you a good one
+    - There's a hole in my heart where my will to live should be that I filled with stupid photos of MCR. I joke about it, but it's true.
+    - When you sleep in the night and there's a hole in the bottom and you don't notice it you're most likely going to drown.
+    - There's an application, an interview... It's a whole process 🙃😘
+    - 81. #Bozo invites u round for a seemingly harmless sleep over but will spend all night trying to con you into sex or even rape u
+    - If you are unwilling to help victims &; or survivors of rape &; domestic violence by speaking out then you have no place as our advocate. 💜
+    - I prefer animation like LT myself but, if you ever do watch RAM, I suggest watching the first 2 seasons &; skip the lamer 3rd season.
+    - That moment when you wanna go crawl in a hole and stay down there forever #rightnow #FridayThe13th #curbsarenotmyfriend
+    - i can't have a girlfriend my dick's only big enough for one of us
+    - One night they slipped in vacant place, too graphic to explain here, it's rape when somebody does sumthin sexual to you w\o your consent...
+    - Shit you crazy, my dick get hard when a cute girl give me eye contact hell
+    - How do you know baby boy. Baby ho gya kya
+    - (Season of the Bitch is tbh nothing like Chapo but that's not a bad thing, tho you know me, I hate men and love women SO.)
+    - Rather belated condolences on your mother's passing away. Good that you have been by her side in her last moments. Sai ram
+    - When he cancels your dick appointment
+    - If Twitter gave a shit, the rules would explicitly specify genocidal speech, racial prejudice, protecting for women against rape threats etc
+    - He's just sad cos he knows the next time he fancies using his power to rape an attractive young woman he's going to the clink
+    - [video] Cock training with 'po0 po0 head'. I just made you famous. 💋
+    - I leave my phone face down to protect your feeling but feel free to flip that bitch over and hurt your own... Either way IDGAF
+    - I was banned from your chat because I said that cunt was a disrespectful term and I knew why you said it but it still stung.
+    - Let's not forget the danger our girls are in these two were nicked for rape of a 14 year old girl in July in Birmingham.
+    - I started stroking it instead
+    - #NUFC perez you little knob knew youd do this after i slag you off!! Well in that case YOUR SHITE SCORE AGAIN!!
+    - A key plot point is a woman lying about rape and being believed. I'd be reluctant to teach that in our current climate.
+    - WHERE THE FUCK AM I U STUPID CUNT
+    - is it more common that a woman would go through that entire process to bring you, random twitter nigga, down, than an actual rape occurring?
+    - oh haiiiiiii 🌚
+    - Next time I ask a chick what she wants to eat and she says 'I don't care' this is wtf she's gettin
+    - These hoes really be sizing me cause ima young mom. Like bitch you an old mom, our kids the same age...i dont see their daddies either😭
+    - Do you ever rap in your whitest voice possible or is that just me?
+    - When you give her abortion money and she comes back with a shit load of diapers
+    - It’s crazy cause as soon as you pass Vaughn and get close to Toronto everybody starts to drive like a fucking cunt
+    - Yes. You need more RAM to speed up your processing + can always replace the graphics card
+    - Ever time this girl get a new JOB here come a new HOE
+    - My sister texted me 'see you in 10 mins' Me: *checks how many minutes I've been waiting to see if I can bitch at her yet*
+    - If you come across a complete cunt just politely offer to eat her out to help change her attitude. #makingtheworldabetterplace2016
+    - Clearly a woman at some stage in your life told you that your dick was tiny.....
+    - Jodie Foster: Hollywood Execs Tried To Rape Me When I Was A Girl
+    - When you're trying your best to fit in
+    - Hope one of these crazy ppl assassinate Trump the stupid son of a bitch my free speech he has no heart the way he is doing the American ppl
+    - I'm pre-empting you telling me it has a hole punch and post it notes. That has been filed in my short term memory (not shiny gold ipad book)
+    - Dom porn pic :)
+    - You a lie and your barber a hoe too nigga your line up looking like a serrated knife
+    - When a stripper asks if I wanna go to the champagne room
+    - Same guy who wants to speak out against the tool that gives women 99.9% chance to stop rape, silent on #weinstein. Coincidence?
+    - Oh my god it's taking all my will power not to fuking drop kick this stupid fat pregnant bitch who's stood smoking at the bus stop!! SCUM 😡
+    - I'm not the one to let people profit on my back... I'll break yours and take what's mine 😘
+    - Once had a girl tell me @ mcds that I have all this money &; I only got 2 chicken sandwiches.. like hoe thats all I was craving
+    - Heartbreak. The final heartbreak. Helps you see what the problem is. What you need to do to get better. I need to fill that hole.
+    - How did the medical community come up with the term 'PMS'? 'Mad Cow Disease' was already taken
+    - That's what you called a dumb hoe who wasn't raised right 🤦🏼‍♀️
+    - Brian you should’ve got RGB ram!!!
+    - you like you time me ya cunt.
+    - my stupid cock wont get hard &gt;:(
+    - The rape joke about a girl having sex with Sandra's comatose boyfriend was in poor taste, and extremely vile.
+    - U suspend acct of rape victim, but not some one who promises 'Hell&Fury the planet has never seen' = #NuclearWar. You are a #HYPOCRITE
+    - I thought my penis made me me but whatev
+    - Is vagina a carb? Cause idgaf if it is or not, Ima eat it anyway
+    - RT : RT to save someones life, it only takes a second, you dont know who'll need it #YesAllMen
+    - I don’t have it me to personally call a woman a bitch. Can’t do it. Generally, not a problem. Personally, nope.
+    - Do you take some else's help? Or just ram into somebody?
+    - You use your tongue prettier than a twenty dollar whore. ~Blazing Saddles
+    - You missed the alleged rape (multiple) of a 13yr girl who dropped case amidst death threats to herself and family. Jane doe vs Donald Trump
+    - Bri: you put in the holeMe: *starts laughing like a child* Bri: *starts laughing* whoops
+    - It's 2017 and yet someone insists marital rape is not an offense because a woman has no authority over her own body.
+    - don't watch me you better just watch yo nigga ho
+    - Egyptian men will soon be fighting for men's rights. #FlawlessRemix #oomf #NFL #NBA #MLB #Cairo
+    - I'm Greek and Italian, I don't consider myself to be 'white'... Unless I'm applying for a job, being pulled over or in court of course
+    - This stupid dick head didn’t say thank you when I held the door for him going into 7/11 so I pulled that shit close in his face when I left
+    - Enimen, you are a disgrace to America! Go crawl back into your hole..... I Would NEVER Let my grand children listen to your NON Music,1
+    - The only thing me and Donald Trump have in common is how we flirt
+    - When you catch him cheating, kill him and get away with it
+    - The girl who accused Kobe Bryant of rape wouldn't testify either. He admitted to the affair not assault. Case dismissed.
+    - it's hyperbole you thick cunt
+    - I like to constantly adjust my cock in public so people keep their eyes on the prize
+    - 'Nigga why did you cum in me!?' First of all bitch your pussy is good
+    - You know why I like strippers? Cause they're dead inside like me
+    - RAPE CULTURE: Saying women are 'too ugly to assault' and dismissing their claims as vindictive.
+    - You have one other person on twitter meanwhile I have the rest of Allen Park outa here bitch 😂
+    - Hope your PlayStation blows up you silly cunt
+    - WHY ARE YOU LIKE THIS NOW I NEED TO FIND A HOLE TO HIDE IN 😳😳😳
+    - Mewhat do you bring to the table? HerI am the table Megood lemme rest my feet on you, dumbass... See how dumb you sound?
+    - we're not just objects that entertain you, we have feelings too! #YesAllMen
+    - When you're acting like you have your life together but you really have no clue what the fuck is going on
+    - I'm all about Money that Pussy Shit You can go On. Talk that Hoe Shit, Give you a Block that you can Hoe on. -Young Will
+    - Did you slut drop again
+    - If you liked Carrie with Aidan then you’re a confirmed dick head
+    - Teaching women consent and creating a culture that believes &; supports male reproductive rights can curb rape
+    - MeI'm about to cum Her-
+    - I feel like I should be featured at this camp
+    - He scored 2 VS unarguably the best defense in that campaign you cunt .lmao.
+    - Mmmmm sweet pussy hole :) xx
+    - Clinton Foundation to keep Weinstein's $250,000 donation....No surprise here #HillaryClinton does NOT care about women she´s a money whore
+    - fuck off forster you stupid gormless lanky cunt #saintsfc
+    - When you've just met someone and they start to tell you their life story
+    - 'I did not rape her, I slept with her' shuuuu see guts oh. The woman sef is talking plenty. Such evil
+    - Yall look stupid for the dick. Now block me back
+    - I guess we should start fuckin then
+    - RT : #ChelseaHandler #KimKardashian #Kanye #KanyeWest #50Cent #Comedy #LOL #LMAO #memes #bruh #petty #funnyshit #truth
+    - do yoy want us put back down to div 3 again over this you utter wankstain kunt
+    - When a stranger tries to talk to me
+    - Your article has a whif of the all to familiar slut-shame = huge problem. Women &amp; girls are as…
+    - Lmao home girl says she's happy this man went blind because he won't hoe no more 😭😭 #OPW
+    - When eating the groceries didn't quite go as planned...
+    - Bobbys a little butt hurt today. Go have a drink and STFU you are the a**hole. I've lost all respect for you. I used to think you spoke real
+    - White man rape also. Brock Turner got caught raping a women only served 3 monthe
+    - When you're hungover AF and you realize tomorrow is Monday
+    - Silent about harassment? NOPE. Silent about sexual assault? NOPE. Silent about rape? FUCK NO. You can't shut me up on a GOOD day.
+    - I know you ain't a pimp but pimp remember what i taught ya
+    - If you make fan edits using stolen art I hope all ur teeth fall out bitch!
+    - 'Can you stop getting into abusive relationships I'm tired of listening to you cry and then watch you fall back in the same hole' -Siow 2017
+    - RT : I bet a lot of people's therapists are dying to meet me just to see if the stories are true.
+    - I swear, any stupid ass walking around with a mask today is getting a swift kick in the dick 💀
+    - I wonder is this is where Caitlyn gets his car services 🌚
+    - 1/2 On her show she slut shames  women &; blames them 4 harassment. Not a Fox fan, but I stood up for the women in an email to her...
+    - #WomenAgainstFeminism is a welcome social movement. Yet, they still do not advocate men's rights. #tcot #VoteGop
+    - What would you do if namjoon sneaks into your room at night and yells 'HERE COMES MONSTER DICK BITCH!!'
+    - How can you slag someone off so much and then be best friends the next minute 😂😂😂
+    - I look in her eyes, &; it's clear the girl ain't here. She's already in 1st class on the Mothership. Bitch! Gimme that damn Watchtower!
+    - you're a goddamn savage
+    - they're also dancing to a song by another 14-15 year old girl saying 'hi bitch' like come on
+    - It’s like rape the onus is always on the woman not only to prove the rape but also her ‘good character’.
+    - Fucking DEAD 😭
+    - When you decided to slaughter goat or ram to rename your self
+    - Do you know how hard it is to walk with a hard cock
+    - YOU A STUPID HOE YOU YOU A STUPID HOE
+    - 😭😭😭 you ain't shit
+    - #KickThemInTheBallsCampaign against rape. I #StandWithWomen. I'm not a violent person but If someone attacks you defend yourself. Rape &;
+    - RT : The highest-paid woman CEO was born a man
+    - funny thing is you slag her off constantly 😂😂
+    - When the DJ plays your joint and the whole crew gets lit
+    - 'Omg I'm so wet did you nut in me' First of all bitch all I did was pee
+    - Lmfao =D not what you thinking ': ': I only got ONE DICK, so i only need ONE GIRL.'...at a time'
+    - When you've run out of kids to pimp out and you gotta figure out what to do with your life
+    - When you see your first pair of titties
+    - romance isn't dead
+    - oh ya because in 2009 14% of America said they cared/supported women's rights
+    - YES YOU DO GO TO BED HOE
+    - . I hope that every woman you meet or speak w/ is secretly taping you. Rape culture can not be defended.
+    - YOU are fake news. YOU are a reality star whore. YOU are dangerous.
+    - You don't want your girl hanging with female 'friends' that don't respect you or your relationship. Hoe-misery loves company.
+    - Shame you won't protect children from threats of violence, harassment or rape
+    - can I serve you dinner?
+    - Ohhhhhhhh Hellll No Bitch ! You Done Fcked With The Wrong Woman 🤦🏼‍♀️😤
+    - Bitch stop tryna be hard hoe and just tell me you love me!!
+    - Its clear in the fuckin video are u fuckin stupid if u take idubbz dick out your mouth for 2 fuckin seconds you would hear him say nigger
+    - Hata maasai wako na aids you stupid son of a bitch. Luos are the ones who live lavish lifestyle in Kenya while u live like bedbugs. Puga
+    - When you walk past someone and they mumble somethin under their breath
+    - Lol no. Not in that sense, you give yourself to your husband doesnt mean he should rape. The woman is still the primary owner of her body.
+    - If someone got body and dick..... but not the face.... would you dub them?
+    - You broke it. A hole.
+    - If you ''Repeatedly'' Rape Stab Carry Acid Incite Murder you 'may' Go to Prison..what Fuckin Planet am i Living on...
+    - Dispelling The Myth Of The Girl Who Cried Rape   #resist
+    - Stupid slag can't take a joke etc etc
+    - She's a hoe, she's ugly, she's a bitch, she's this, she's that .. but you dated her ? please, take a seat.
+    - PLAY MUSICAL CARS ALL YOU WANT...IM LIKE YOU...GOTTA KILL ME TO MAKE ME STOP...YOU HAVE NO DICK
+    - Well answer the question?!?! Did you get a dick?
+    - This is about integrity. It is not about parties or candidates. Would you permit rape, if perpetrated by a political side?
+    - To use rape as a weapon towards women are far worse than using a bullet. Only other men can help the women in Burma. Stand up for the women
+    - Even Victoria's Secret is promoting anal sex now
+    - I bought a condom that said 'For her pleasure' so I turned it inside out
+    - Rape and the threat of rape are a form of terrorism against women to keep us submissive and obedient so we're less able to compete and act independently of men. Non-rapist men who look away are complicit.
+    - You are living in world of illusions.....no RAM MANDIR and Dara 370 will not be removed before elections in 2019.
+    - The question for debate today, is how many years in prison should #feminists receive? #SmileMatt #USA
+    - dp sex zombie girl fucked fetish wet cunt
+    - Facebook “slut shaming” pages reflect deeper problems with society’s discriminatory attitude towards women #QandA
+    - Do you know anything about the hole in antarctica or is that fake🤔🤔🤔
+    - When you thought you'd try a little s &; m and now your ass hurts so bad you can hardly sit
+    - PersonI don't like you Me-
+    - Never will I bend over or bow down or wipe hands in camel piss or abuse women or rape children Never I will die 1st
+    - Oh yes, *that* guy. Told a young woman to 'eat a dick' and then his buddy sent her a fake legal threat to…
+    - Im totaly scared of what kaley WU dating done !kaley U be most motherfcuking girl ever never say it die on this throne sickest whore forcalf
+    - Although if you slag Muslims off ..you're probably get a knock at the door
+    - Are you using many added assets/buildings/props or just mostly mods? My 16gb of ram gets chewed up currently by it
+    - Muslim Man Dragged Out Of Hotel And Beaten For Being With A Hindu Woman = “chanting ‘Jai Sri Ram’ &; beating him
+    - Herremember when you said you loved me? Me-
+    - Fuck off, you smelly, Australian cunt. You are hereby banned from my company; , FOR LIFE!
+    - This is what happens when you choose to torture, behead &; rape men, women and children.The wrath of nations be upon you &; utterly wipe u out
+    - British people say cunt like American people say dude I not know this woman at counter asked me for help…
+    - Every girl has about 10 percent HOE in them believe
+    - It's a lovely evening to...
+    - You fake cause your ass never comes to visit a hoe!🙄
+    - Now that homecoming is over I can go back to being the wholesome woman you all have known and loved *puts hoe tendencies away*
+    - Because of you ass hole we have to do the topographical assessment, fuck sake it is so hard 😡
+    - All the experts predicting the dodgers will win. Eat a dick.. not that I don't support and love them, but you always jinx them
+    - well, tell me the legislation hes pushed on womens issues? bcz if his only writings on women are rape fantasies, then #lenonlesighlenon
+    - DYE YOUR STREAK BLUE YOU FUCKING CRACK WHORE DO IT RIGHT NOW ETHAN DYE IT NOW
+    - When you find yourself in a hole, quit digging. Will Rogers #quote
+    - that could couldn't tell you the starting QB..much less what a Ram is...lol..j/k
+    - WRONG millions get fucked. You stupid son of a bitch but hey none of that matters to you. Go fuck yourself!
+    - (1) I hate companies that utilize this stupid fucking 'point system'. Suck my fucking dick? Tired of this stupidity.
+    - #NowPlaying on ATCWSR: Fat Pimp feat Ricco Barrino You Already Know (Dirty) #tunein #atcwsr
+    - unblock my account 'AryanFascist101'. Im a nazi/fascist human supporter. (This is from backup account)
+    - FAQ: I need fast delivery can you get me out of a hole? #print #marketing #eventprofs
+    - Me trying to flirt-
+    - Where's the he man having woman grab your dick! C'mon Jimmy...think about us our age knowing what you really think! Loser!!!!
+    - I am not sure how much you have seen about this, but this is a pretty strange take on it. to say rape is the main plot point is dismissive
+    - FUCK YOU HARVEY WEINSTEIN! Anyone who has suffered from rape and I mean all. Lock him up. I stayed silent for 24 hours. Going sue me HW?
+    - Peoplehow long before your heart and liver give out on you from all the drinking and drugs? Me-
+    - ...Those around you will believe you and don't say You didn't want it We all need to believe Date rape doesn't exist You shouldn't think..
+    - That's right bitch cos this dick so good I shouldn't have to fuck for free!!!
+    - You are one sick stupid foul ridiculous calculated evil son of a bitch. They can't remove your stupid ass fast enough.
+    - the simple fact of you calling a girl hoe just because she rejected you shows how much you didn’t deserve her.
+    - Start your week right with our favorite music video of 2013 featuring one of our best supporters:
+    - *Another* thing that's real is that women are pervasively not believed about rape and other forms of violence—especially marginalized women.
+    - Only stupid uniformed people live the wretched bitch!
+    - RT : When a fart slips out in front of your fella for the first time
+    - Shit the dick make you smoke lmao
+    - I am a white woman.. I was boycotting for women everywhere who have experienced sexual harassment, assault, and rape and were silenced
+    - Had this play heappened in a 49ER-RAM game would you bore us on that too?
+    - “ go talk to your side hoes “ first of all you are the side ho 😂😂😂
+    - how small a cock do you have to have to park sideways in the Tesco car park?? Flexing your Ford Focus lol
+    - We say this all the time. You should try to come to one of meetings brother. Thanks for the support #maledominance
+    - I’m pretty sure it’s me, says Tom right there you dumb cunt
+    - Drunk men target vulnerable women (so do undrunk men). Drunk men also rape sober women
+    - Pussy bitch you won’t
+    - Oh, so you might actually get something done? I doubt it. You're a pussy piece of shit. Your cunt…
+    - When your sugar daddy spoils you like the princess you are
+    - Thinkin about how that stupid cunt said we're in a diff social classes 😂bitch I was born in money you gotta fuck old niggas to get a new car
+    - There's not a woman on here impressed by your dick-pic-as-profile-pic, guys. We get that youre proud of it but that's not sexy. Put it away.
+    - You first
+    - Dick... It's food for thot
+    - 1) fuck you 2) i gotchu fam, lemme get my pimp hand ready😂
+    - Al you are a gift to our cause! Keep up the work brother #maledominance
+    - Bitch log off then sensitive ass hoe
+    - If bios told the truth....
+    - Buy more RAM, girl :P
+    - When you bust a nut in 30 seconds
+    - If all of you ex's are psychotic nut jobs... Congratulations, you have good dick my friend
+    - Wake up at 6 in the morning to hear  commentating on the game. Guy speaks out of his butt hole, don’t know how you got this job 😒😒😒
+    - You are just a massive cunt
+    - “But pennywise was not happy” lOL. So I see this girl and she’s in her car and she’s like “that sun of a bitch is chasing me too”
+    - Iran: Justice needed for rape &; murder of 7-yr-old girl but executing the 17-yr-old boy convicted doesn't deliver it
+    - How far can you go down the rabbit hole ?
+    - Maybe you guys have t heard of India? Google plz, world rape capital
+    - Well duh I made the gc you a hole
+    - So if your reading this and I know you are .. STOP HITTING ME UP YO DICK LIDDO AND NOW THE WORLD KNOWS 😭🤦🏽‍♀️
+    - lmao you guys i remember when someone hacked my twitter, called me a whore and shit and tried to say it wasn’t them.
+    - But we do need to teach our boys to Respect and Protect our women not harass rape beat and belittle them
+    - niggas really out here with tay k big bitch im whore
+    - well if feminists make up stats all the time can't a guy? Double standard yet again.
+    - The system will use what you give it. OS is designed to keep things in RAM instead of paging them out.
+    - 'You're the only girl I'm talking to'
+    - When you're fat but so cute that everyone loves you anyway
+    - Here's David A. to tell you about our special 2017 Ram 1500 Big Horn Lease special going on this month.
+    - I like to blog about masculinity, fascism, alternative ideas, heres my next account
+    - This is the kind of Easter egg hunt I need
+    - Yeah, you would probably want to do that, as most mobos don’t default to using the highest ram frequency supported.
+    - Enough with the fucking penguin and his anime slut cutout jfc you cucks
+    - #rock #pop #dance #hits #np Teenage Bad Girl Black Hole (Featuring Todd Fink) on
+    - Eat a dick, cunt
+    - I can always tell when you're drunk cause you're lighting up Twitter in the middle of the night 🌚
+    - RT : 'A good time was had by all,' to describe a time that only you enjoyed. #TFM
+    - A woman who accused US rapper Nelly of rape has asked the police to stop their investigation
+    - 'Dick hair' sounds like 'take care.' If you're having a bad day, say 'dick hair' as you wave goodbye to annoying people. They won't know. 😁
+    - What happened to infrastructure rebuilding. You haven’t filled a pot hole. This was one of your good ideas. Don’t blame Dems. You’ve done 0
+    - I'm such a little pussy ass bitch on my period what tha fook
+    - lets get rid of womens sports and make men and women play side by side! #equality
+    - Ppl want to complain for the stupid reasons ! Suck a big ass dick maybe that will keep you from talking ! 😡
+    - you didn't learn that when living in Bet Shemesh has made you a slut, or whatever the male equivalent is :-p
+    - when I say Vickie can beat this hoe up &; leave with not one scratch 😂😂 like my 13 year old sister hold more weight than you lil mama
+    - Speaking of creepy. This narcissist sounds like a creepy guy on the run from a rape charge. Being Putin's bitch not that satisfying?
+    - If you can't spell 'masturbate' right, we can't sext... I don't have time for that kind of negativity in my life
+    - Pregnant from rape 40 years ago, Louise says her baby girl ‘never reminded me of the rape or my rapist’
+    - Fuck them and their terms. You are one stupid dick! People dying due to hunger and billions looted You bull shitting about this?
+    - Frienddo you wanna drink today? Me-
+    - how long of a cock can a women take
+    - all you mexican 5h stans can suck a BIG BLACK COCK
+    - When I think about all the people that hate me
+    - When your friend offers to help spice up your relationship out of the blue
+    - Do you know how traumatizing rape is?
+    - I'd be interested in seeing you have a second meeting with Nikki. I want to know why she suddenly left her pimp 3 days later
+    - there's a woman roasting my restaurants salads behind me and I'm at the point now where I'm like BITCH U RITE.
+    - Would love to have the putting stroke of  lovely tempo and goes at them, you won't see him dolly them at the hole! 👍🏻
+    - has never had a woman accuse him of any inappropriate behavior. But Slick Willie has been accused of rape by several women.
+    - Today some guy was looking at a magazine and he was like 'she just looks like a hoe' so the girl w him asked why and he said
+    - loooooooooooool I don't date, sweetheart. Just dick appointments
+    - As a survivor of rape you have inspired me to be better and to do better. Thank you for all that you do for survivors. #WOCAffirmation
+    - A beautiful woman When you see the painter properly So go get it ...... . . .  . . . . . . . . She belongs to you Ram Rahim recognized 😆😜
+    - I'm so anti social that I avoid people in my phone
+    - Cunt of the year qualifier. Blocked the path. A woman with a six month old kid in a pram had to walk in the road with traffic because of him
+    - Introvert level expert
+    - When you're on a first date and she asks to talk to the manager
+    - “why would you surround yourself with the dumbassery of straight boys if they’re not giving you dick”
+    - was the money you accepted related to the incident now being alleged as rape? Do you regret accepting payment?
+    - When someone says they're unfollowing for what I post on MY FUCKING PAGE.... FOH
+    - The thinking mind is what is busy. You have to stay in your heart. You have to be in your heart. Be in your heart. Ram Dass
+    - When autocorrect just gets you
+    - Women treat us like objects. We are not ATM machines here to give you our hard earned money so u can buy uggs, Christ. #YesAllMen
+    - I am not your slut whore hoe concubine or bitch. You should have known better.
+    - Just let me know though cuz women will tell you that.. give em cock once then it's 'What are we?'
+    - Feminists be like
+    - Some girl that knew Jackson from his hoe days legit CROSSED THE ROOM to talk to him at the party yesterday and I was legit like
+    - You down or nah?
+    - you just figured that out?
+    - If you watch Matthews on MSNBC you are for the rape of women disgusting
+    - Beer, wine or liquor is the toughest decision I have to make everyday
+    - And the a&&hole Bannon thinks we are all stupid
+    - Went from the last person I'd talk too, to the women I crave on the daily in all about 10 months. Life's really a bitch 🙂😂
+    - hey -you can see,, they're suspected to be a suspected redshirt. they did something involving a longsword and a stick of ram~
+    - A)Woman (married/single) below 18yrs of age, has consensual sex = rape! B) Married woman over 18yrs is raped by husband = 'marital sex'🤷‍♀️
+    - Ha ha BJP knows that Hindus r so stupid that they r ready to starve with no jobs but first like to see Ram Mandir then Taj Mahal.
+    - 'He crying cuz this pussy so good' First of all my Niners set an NFL losing record with 5 games under 3 points to win, insensitive hoe
+    - Take this hard cock up your ass balls deep
+    - When I look at the shit that I post...
+    - Imagine if it had been a 16yo girl presented by her management as a slut with half a dozen blokes all a whole lot older than her?
+    - “I know you liked how that pussy taste” First of all, I don’t have tastebuds bitch
+    - My grandfather just told me in Greek 'the hole is sweet' my life makes more sense everyday
+    - I don’t like Halloween at all that shit cold and everwhere you go smells like booty hole and candy don’t @ me
+    - RT :  I have actually asked 'why are you still here?' to a man's face before.
+    - An hour into 'paycheck &; bills' and you realize you really need to start selling drugs
+    - 🤔 All charged will be dropped from #Nelly’s alleged rape case, as the woman involved refuses to…
+    - eats entire bags of dicks. Like, seriously. I've seen him eat an entire bag of disembodied cocks. He's a ravenous cunt m8
+    - No Woman Is Immune  #rape #sexualabuse
+    - Like just because I accidentally shoved u bit doesn’t mean u have to call me a fat girl like bitch.... how old you
+    - I either laugh or turn into a complete psychopath when I'm mad, either way, no one is safe
+    - It's a beautiful day to go out, get fucked up and let a stranger finger fuck you till you squirt while sitting at the bar
+    - So you're saying you /don't/ like how my cock looks in these panties?
+    - Really up wondering why this bitch wants all my seconds 😂 40 something year old whore
+    - they give you a gun USE THE GUN TO SPOOK THE SPOOKERS WITH LEAD TO THE DICK
+    - When I see men wearing skinny jeans
+    - MICHAEL IMMA FKN RIP YOU UP IF DONT STOP TAKING ALL THE INTERNET TO STREAM PORN OR ANIME &amp; STOP WALKIMG AROUND W YOUR ASS OUT YOU FAT CUNT
+    - And you won't get me in a hole to rot with your hemlock on the rocks.
+    - Why does this stupid Herrera guy pass the ball without taking a touch then when he loses it presses like a cunt?
+    - Go back to your hole you fucking roach.
+    - You should post the link my little slut
+    - RAM madhavji what about Kashmir. You hv to answer that in same length.people will not sit queit
+    - God dammit! Is it a prerequisite to be on YouTube you have to be a racist dick snot?!
+    - same AF
+    - &; you bet your ass I will be packing jack, no host bars are no-ho fun! 😂
+    - Islam has been at war with infidels 1400 years... do you believe in the rape and murder taught in your Qur'an? if you do not its time to say so. Stop the lies.
+    - I’ve been called a cunt, bitch, whore yet you do nothing.
+    - People don’t get notifs for you cuz twitter is a stupid sensitive bitch
+
