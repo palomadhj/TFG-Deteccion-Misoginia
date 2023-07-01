@@ -15,5 +15,5 @@ pipeline:
     evaluate_on_number_of_examples: 520
     evaluate_every_number_of_epochs: 1
     checkpoint_model: True
-    tensorboard_log_directory: './spacy2_EXP4'
+    tensorboard_log_directory: './spacy2_EXP3'
     tensorboard_log_level: 'epoch'
