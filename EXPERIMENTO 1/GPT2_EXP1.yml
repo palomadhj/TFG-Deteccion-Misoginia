@@ -5,10 +5,8 @@ pipeline:
   - name: "WhitespaceTokenizer"
   - name: "LanguageModelFeaturizer"
     model_name: "gpt2"
-    model_weights: "gpt2"
   - name: "DIETClassifier"
     epochs: 100
-    use_masked_language_model: True
     entity_recognition: False
     constrain_similarities: True
     evaluate_on_number_of_examples: 520
