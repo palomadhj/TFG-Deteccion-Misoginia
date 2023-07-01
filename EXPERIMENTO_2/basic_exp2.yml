@@ -13,9 +13,9 @@ pipeline:
   epochs: 100
   entity_recognition: False
   constrain_similarities: True
-  number_of_transformer_layers: 3
+  use_masked_language_model: True
   evaluate_on_number_of_examples: 520
   evaluate_every_number_of_epochs: 1
   checkpoint_model: True
-  tensorboard_log_directory: './BASIC_EXP4'
+  tensorboard_log_directory: './BASIC_EXP2'
   tensorboard_log_level: 'epoch'
