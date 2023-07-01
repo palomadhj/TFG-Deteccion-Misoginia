@@ -5,15 +5,11 @@ pipeline:
   - name: "WhitespaceTokenizer"
   - name: "LanguageModelFeaturizer"
     model_name: "distilbert"
-    model_weights: "distilbert-base-uncased"
   - name: "DIETClassifier"
     epochs: 100
     entity_recognition: False
     constrain_similarities: True
-    number_of_transformer_layers: 3
     evaluate_on_number_of_examples: 520
     evaluate_every_number_of_epochs: 1
     checkpoint_model: True
-    tensorboard_log_directory: './DistilBERT_4'
-    tensorboard_log_level: 'epoch'
     
