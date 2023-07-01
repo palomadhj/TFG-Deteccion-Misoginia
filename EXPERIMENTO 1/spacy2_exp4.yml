@@ -1,0 +1,16 @@
+recipe: default.v1
+assistant_id: tfg
+language: en
+pipeline:
+  - name: "SpacyNLP"
+    model: "en_core_web_md"
+  - name: "SpacyTokenizer"
+  - name: "SpacyFeaturizer"
+  - name: 'LexicalSyntacticFeaturizer'
+  - name: "DIETClassifier"
+    epochs: 100
+    entity_recognition: False
+    constrain_similarities: True
+    evaluate_on_number_of_examples: 520
+    evaluate_every_number_of_epochs: 1
+    checkpoint_model: True
